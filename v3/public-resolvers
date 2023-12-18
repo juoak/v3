@@ -1,4 +1,4 @@
-pass: bebasdns
+pass: bebasdns (2 retries)
 pass: bebasdns-security
 pass: dns.b33.network-dnscrypt
 pass: dnscrypt.pl-guardian
